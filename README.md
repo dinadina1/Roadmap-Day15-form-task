@@ -8,4 +8,5 @@
 <h1>Website Link</h1>
 https://admission-forms.netlify.app/
 
-Website Screenshot
+<h1>Website Screenshot</h1>
+<img src=./images/Screenshot.png>
