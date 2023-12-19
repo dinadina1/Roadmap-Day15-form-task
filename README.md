@@ -9,4 +9,4 @@
 https://admission-forms.netlify.app/
 
 <h1>Website Screenshot</h1>
-<img src=./images/Screenshot.png>
+<img src="./images/Screenshot.png" alt="Admission-form-screenshot">
