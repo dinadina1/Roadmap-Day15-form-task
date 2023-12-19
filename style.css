@@ -1,0 +1,51 @@
+body{
+  background-color: aliceblue;
+}
+.form-row>.col, .form-row>[class*=col-], button{
+    margin-left: 20px;
+  }
+  form{
+    margin-top: 5px;
+  }
+  .form-row{
+  display: inline;
+  margin-right: 0px;
+  margin-left: 0px;
+  }
+  .form-check-inline,label{
+    display: inline;
+  }
+  .col-md-3,.col-md-6{
+    max-width: 700px;
+  }
+  .col-md-4{
+    display: inline-block;
+    margin-right: 20px;
+  }
+  label{
+    font-weight: bold;
+  }
+  .col-md-4{
+    width: 327px;
+  }
+
+  table {
+  border-collapse: collapse;
+  width: 100%;
+  }
+  
+  table, th, td {
+  border: 1px solid black;
+  }
+  th, td {
+  padding: 10px;
+  text-align: left;
+  }
+  .container{
+    margin-left: 5px;
+    max-width: 100%;
+    margin-right: 5px;
+  }
+  h1{
+    text-align: center;
+  }
